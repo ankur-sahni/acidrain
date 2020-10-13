@@ -1,1 +1,1 @@
-# acidrain
+# acidrain is a repository of multiple portfolip projects created for learning purpose majorly.
